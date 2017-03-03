@@ -15,18 +15,24 @@ public class VariavelTipo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        imprime();
+ 
+        //imprime(); 
+        //variavel inteira chamada "x" recebe o valor 10
+        int x = 10;
+        //variavel inteira chamada "y" recebe i vakir 4;
+        int y = 4;
         
-        System.out.println("Estou brincando de funções");
+        int resultado;
         
-        imprime();    
+        resultado = multiplica(x,y);
+        multiplica(x,y);
+        System.out.printf("O resultado é %d", resultado);
     }
     /**
      *
      */
-    public static void imprime(){
-        System.out.println("-----");
-        System.out.println("Teste");
-        System.out.println("-----"); 
+    public static int multiplica(int x, int y){
+        return x * y;
+        
     }
 }
