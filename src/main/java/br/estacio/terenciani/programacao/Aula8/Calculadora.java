@@ -31,29 +31,20 @@ public class Calculadora {
                 
         System.out.print("Digite o segundo operando: ");
         segundoOperando = scan.nextDouble();
-        
-        if(operacao.equals("*")){
-            resultado = primeiroOperando * segundoOperando;
+       
+        switch(operacao){
+        case "+": resultado = primeiroOperando + segundoOperando;
+        break;
+        case "-": resultado = primeiroOperando - segundoOperando;
+        break;
+        case "*": resultado = primeiroOperando * segundoOperando;
+        break;
+        case "/": resultado = primeiroOperando / segundoOperando;     
+        break;
+        default: System.out.println("Digite um operador válido!");
+            
         }
-        
-        if(operacao.equals("/")){
-            resultado = primeiroOperando / segundoOperando;
-        }
-        
-        if(operacao.equals("+")){
-            resultado = primeiroOperando + segundoOperando;
-        }
-        
-        if(operacao.equals("-")){
-            resultado = primeiroOperando - segundoOperando;
-        }
-        if(operacao.equals("-")){
-            resultado = primeiroOperando - segundoOperando;
-        }
-        else{
-            JOptionPane.showMessageDialog(null, "Digita certo!");
-        }
-        
+       
         System.out.printf("O resultado é: %.2f", resultado);
     }
     
