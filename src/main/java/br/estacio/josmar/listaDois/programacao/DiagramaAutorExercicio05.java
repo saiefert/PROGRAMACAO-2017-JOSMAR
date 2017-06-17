@@ -1,7 +1,11 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Criar um método main que leia os nomes e cargos dos funcionários do console.
+ * Crie objetos Funcionario com cada um deles e armazene no vetor da classe empresa
+ * Criar as duas classes e seu relacionamento
+ * Criar uma classe separada para testes que cria uma instância de cada uma das classes
+ * Note que para criar um livro é preciso criar um autor
+ * Imprimir o nome do livro, preço e quantidade no estoque
+ * Através da instância de livro, recuperar o autor e imprimir o seu nome, email e sexo
  */
 package br.estacio.josmar.listaDois.programacao;
 

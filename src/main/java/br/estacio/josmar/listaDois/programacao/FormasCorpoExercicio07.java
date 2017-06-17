@@ -1,7 +1,6 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Criar as classes de acordo com o diagrama abaixo
+ * Lembrar das palavras reservadas: extends e abstract
  */
 package br.estacio.josmar.listaDois.programacao;
 

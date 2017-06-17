@@ -1,7 +1,8 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+* Crie uma classe chamada Endereco que possua uma String rua e outra cep. Use o
+* conceito de Encapsulamento para armazenar o valor de um cep de forma que a
+* String que corresponda ao número do cep fique sempre no formato: “XXXXX-
+* XXX” onde X representa um número de 0 a 9.
  */
 package br.estacio.josmar.listaDois.programacao;
 
