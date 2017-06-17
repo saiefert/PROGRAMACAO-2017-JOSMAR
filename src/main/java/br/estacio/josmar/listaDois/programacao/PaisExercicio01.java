@@ -11,7 +11,7 @@
  * fazer fronteira com ele mesmo);
  * f) Um método que retorne a lista de países que fazem fronteira;
  * g) Um método que receba um outro país como parâmetro e retorne uma lista de vizinhos
- * comuns aos dois países
+ * comuns aos dois países.
  */
 package br.estacio.josmar.listaDois.programacao;
 

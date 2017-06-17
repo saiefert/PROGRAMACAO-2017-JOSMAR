@@ -1,6 +1,7 @@
 /*
- * Crie uma classe java MaiorNumero que contenha um método que receba dois
- * números inteiros e imprima o maior entre eles.
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package br.estacio.josmar.listaDois.programacao;
 
@@ -11,5 +12,5 @@ package br.estacio.josmar.listaDois.programacao;
 public class PrincipalMaiorNumeroExercicio09 {
   
  		maiorNumeroExercicio09 numero = new maiorNumeroExercicio09();
- 		System.out.println(numero.num(6, 8));
+ 		System.out.println(numero.contador(6, 8));
 }

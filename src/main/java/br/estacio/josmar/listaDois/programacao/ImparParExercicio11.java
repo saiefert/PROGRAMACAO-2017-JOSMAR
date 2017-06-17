@@ -1,6 +1,7 @@
 /*
- * Escreva um programa que imprima na tela a soma dos números ímpares entre 0
- * e 30 e a multiplicação dos números pares entre 0 e 30.
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package br.estacio.josmar.listaDois.programacao;
 
@@ -10,6 +11,9 @@ package br.estacio.josmar.listaDois.programacao;
  */
 public class ImparParExercicio11 {
 
+    /**
+     * @param args the command line arguments
+     */
     public static void main(String[] args) {
     int x = 0, impar=0, i;
     float par = 0;

@@ -1,5 +1,5 @@
 /*
- * Implementação classe Arrays
+ * Implementação da classe Arrays
  */
 package br.estacio.josmar.listaDois.programacao;
 

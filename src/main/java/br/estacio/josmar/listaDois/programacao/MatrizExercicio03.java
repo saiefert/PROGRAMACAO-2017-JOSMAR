@@ -1,11 +1,7 @@
 /*
- * Implementação da classe Matriz
- * Criar uma classe chamada Matrizes
- * Criar um método para imprimir uma matriz recebida por parâmetro
- * Criar um método que tenha como parâmetros duas matrizes e retorne a matriz
- * correspondente a multiplicação delas
- * Declare, construa e inicialize 2 matrizes com números fixos de tamanhos diferentes
- * Imprimir a matriz de resultado na tela
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package br.estacio.josmar.listaDois.programacao;
 

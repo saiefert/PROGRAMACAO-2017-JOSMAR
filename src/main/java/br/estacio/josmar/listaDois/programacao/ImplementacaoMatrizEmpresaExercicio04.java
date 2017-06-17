@@ -1,10 +1,7 @@
 /*
- * Implementação da classe Matriz
- * Criar uma classe Funcionario com as variáveis de instância: nome, cargo e superior
- * (chefe)
- * Criar uma classe Empresa que contém um Array de funcionários
- * Criar um método “listarFuncionarios” que imprima todos os funcionários de uma
- * empresa
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
 package br.estacio.josmar.listaDois.programacao;
 
